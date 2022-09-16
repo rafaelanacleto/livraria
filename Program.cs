@@ -15,7 +15,7 @@ var connectionString = $"Server={server}, {port};Initial Catalog={database};User
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.WebHost.UseKestrel().UseUrls("http://*:80");
-builder.Services.AddDbContext<ApplicationDbContext>(options => 
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(connectionString));
 
 builder.Services.AddControllersWithViews();
