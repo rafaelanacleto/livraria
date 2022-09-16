@@ -16328,13 +16328,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\repos\\livraria\\livraria\\Views\\Livraria\\Index.cshtml.cshtml",
-      "TargetPath": "Views\\Livraria\\Index.cshtml.cshtml",
+      "FilePath": "c:\\repos\\livraria\\livraria\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\repos\\livraria\\livraria\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\repos\\livraria\\livraria\\Views\\Livraria\\Index.cshtml",
+      "TargetPath": "Views\\Livraria\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
