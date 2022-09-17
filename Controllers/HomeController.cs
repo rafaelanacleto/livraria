@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using livraria.Models;
+using Microsoft.Extensions.Logging;
 
 namespace livraria.Controllers;
 

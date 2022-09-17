@@ -1981,11 +1981,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\livraria\\livraria\\livraria.csproj",
+      "projectUniqueName": "C:\\repos\\livraria\\livraria.csproj",
       "projectName": "livraria",
-      "projectPath": "C:\\repos\\livraria\\livraria\\livraria.csproj",
+      "projectPath": "C:\\repos\\livraria\\livraria.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\livraria\\livraria\\obj\\",
+      "outputPath": "C:\\repos\\livraria\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
